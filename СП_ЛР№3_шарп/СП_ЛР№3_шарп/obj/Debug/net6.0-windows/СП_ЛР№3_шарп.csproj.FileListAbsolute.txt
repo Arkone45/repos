@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\bin\Debug\net6.0-windows\СП_ЛР№3_шарп.exe
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\bin\Debug\net6.0-windows\СП_ЛР№3_шарп.deps.json
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\bin\Debug\net6.0-windows\СП_ЛР№3_шарп.runtimeconfig.json
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\bin\Debug\net6.0-windows\СП_ЛР№3_шарп.dll
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\bin\Debug\net6.0-windows\СП_ЛР№3_шарп.pdb
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР_3_шарп.Form1.resources
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.AssemblyInfo.cs
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.dll
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\refint\СП_ЛР№3_шарп.dll
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.pdb
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\СП_ЛР№3_шарп.genruntimeconfig.cache
+C:\Users\admin\source\repos\СП_ЛР№3_шарп\СП_ЛР№3_шарп\obj\Debug\net6.0-windows\ref\СП_ЛР№3_шарп.dll
